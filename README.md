@@ -1,7 +1,7 @@
 🎧 #Consumo Musical na Pandemia: Uma Análise A Partir do Ranking Billboard
 Repositório relativo ao projeto desenvolvido no 2º semestre do curso Inteligência e Análise de Dados da Instituição Senai Santo Amaro. Este trabalho foi inscrito e aprovado no Congresso Internacional de Inovação de Pesquisa.
 
-#Texto#
+#Texto
 
 🏹 # Objetivo Geral
 O presente projeto buscou analisar os impactos da Pandemia de Covid-19 na forma de consumo musical por meio das plataformas de streaming entre os anos de 2018 e 2023, nos Estados Unidos.
